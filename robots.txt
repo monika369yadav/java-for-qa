@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://your-username.github.io/java-for-qa/sitemap.xml
+Sitemap: https://monika369yadav.github.io/java-for-qa/sitemap.xml
